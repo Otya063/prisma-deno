@@ -6,7 +6,7 @@ Create API key.
 ```bash
 npx prisma-accelerate-local -s SECRET -m postgres://USER:PASSWORD@HOST:PORT/DBNAME?schema=public
 
-# exapmle output
+# example output
 eyJhbGciOiJIUzI1NiJ9.eyJkYXRhc291cmNlVXJsIjoicG9zdGdyZXM6Ly9VU0VSOlBBU1NXT1JEQEhPU1Q6UE9SVC9EQk5BTUU_c2NoZW1hPXB1YmxpYyIsImlhdCI6MTcwNjYzMDQzNCwiaXNzIjoicHJpc21hLWFjY2VsZXJhdGUifQ.6o1FPOs-YVNRIWbkY3K1vvTvFupXn25qlkDGJnXUEWo
 ```
 
